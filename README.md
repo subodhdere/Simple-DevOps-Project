@@ -13,4 +13,4 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Docker &
 - Kubernetes
 
-You may also want to checkout my [dotfiles](https://github.com/jessfraz/dotfiles)
+You may also want to checkout my [subodhdere](https://github.com/subodhdere/SuccessStory/blob/master/docker/Dockerfile)
